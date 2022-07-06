@@ -8,7 +8,7 @@ Django==1.11.4
 django-allauth==0.33.0
 html5lib==0.999999999
 idna==2.5
-lxml==3.8.0
+lxml==4.9.1
 mock==2.0.0
 numpy==1.13.1
 oauthlib==2.0.4
